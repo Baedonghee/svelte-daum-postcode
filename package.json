@@ -1,6 +1,9 @@
 {
-  "name": "svelte-app",
+  "name": "svelte-daum-postcode",
   "version": "0.0.1",
+  "description": "svelte daum-postcode",
+  "author": "Baedonghee <appleehdgml@gmail.com> (https://github.com/Baedonghee)",
+  "license": "MIT",
   "svelte": "src/index.svelte",
   "repository": {
     "type": "git",

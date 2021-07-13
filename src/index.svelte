@@ -85,6 +85,7 @@
 	const onError = (error) => {
     error.target.remove();
     error = true;
+    dispatch('error');
 	}
 
 	const onComplete = (data) => {

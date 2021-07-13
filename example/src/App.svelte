@@ -10,4 +10,4 @@
 	}
 </script>
 
-<DaumPostcode on:complete={handleComplete} height="100vh"/>
+<DaumPostcode on:complete={handleComplete} />
