@@ -114,6 +114,6 @@
   `}  
 >
   {#if error}
-    {errorMessage}
+    {@html errorMessage}
   {/if}
 </div>
